@@ -13,4 +13,6 @@ public class ExampleResource {
     public String hello() {
         return "Hello from RESTEasy Reactive";
     }
+
+    //SI cambio en esta clase tambien se cambia en la clase testHelloEndpoint
 }
